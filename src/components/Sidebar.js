@@ -108,7 +108,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
               </svg>
             </div>
             <div className="user-details">
-              <p className="user-name">John Doe</p>
+              <p className="user-name">Aman Chhonkar</p>
               <p className="user-role">Content Creator</p>
             </div>
           </div>
